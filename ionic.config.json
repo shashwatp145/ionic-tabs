@@ -1,0 +1,8 @@
+{
+  "name": "Ionic Tabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "a836d005"
+}
